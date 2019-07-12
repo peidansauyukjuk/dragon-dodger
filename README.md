@@ -1,6 +1,10 @@
 # DRAGON DODGER
 
-Get to the treasure to win! Use left and right arrow keys to move. [Play now!](https://dragon-dodger.herokuapp.com/)
+![Game Preview](./assets/game-preview.png)
+
+Get to the treasure to win! Use left and right arrow keys to move.
+
+[Play now!](https://dragon-dodger.herokuapp.com/)
 
 ## ABOUT
 
